@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\study\\CPP\\Enum3\\",
+  "WorkspaceRootPath": "C:\\study\\CS\\Enum3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB38511B-6234-416E-BB28-B82718D6CA61}|Enum3.csproj|c:\\study\\cpp\\enum3\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB38511B-6234-416E-BB28-B82718D6CA61}|Enum3.csproj|c:\\study\\cs\\enum3\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB38511B-6234-416E-BB28-B82718D6CA61}|Enum3.csproj|solutionrelative:mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainApp.cs",
-              "DocumentMoniker": "C:\\study\\CPP\\Enum3\\MainApp.cs",
+              "DocumentMoniker": "C:\\study\\CS\\Enum3\\MainApp.cs",
               "RelativeDocumentMoniker": "MainApp.cs",
-              "ToolTip": "C:\\study\\CPP\\Enum3\\MainApp.cs",
+              "ToolTip": "C:\\study\\CS\\Enum3\\MainApp.cs",
               "RelativeToolTip": "MainApp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T07:58:35.374Z",
               "EditorCaption": ""

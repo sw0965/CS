@@ -1,0 +1,15 @@
+C:\study\CS\StringSearch\bin\Debug\net8.0\StringSearch.exe
+C:\study\CS\StringSearch\bin\Debug\net8.0\StringSearch.deps.json
+C:\study\CS\StringSearch\bin\Debug\net8.0\StringSearch.runtimeconfig.json
+C:\study\CS\StringSearch\bin\Debug\net8.0\StringSearch.dll
+C:\study\CS\StringSearch\bin\Debug\net8.0\StringSearch.pdb
+C:\study\CS\StringSearch\obj\Debug\net8.0\StringSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CS\StringSearch\obj\Debug\net8.0\StringSearch.AssemblyInfoInputs.cache
+C:\study\CS\StringSearch\obj\Debug\net8.0\StringSearch.AssemblyInfo.cs
+C:\study\CS\StringSearch\obj\Debug\net8.0\StringSearch.csproj.CoreCompileInputs.cache
+C:\study\CS\StringSearch\obj\Debug\net8.0\StringSearch.sourcelink.json
+C:\study\CS\StringSearch\obj\Debug\net8.0\StringSearch.dll
+C:\study\CS\StringSearch\obj\Debug\net8.0\refint\StringSearch.dll
+C:\study\CS\StringSearch\obj\Debug\net8.0\StringSearch.pdb
+C:\study\CS\StringSearch\obj\Debug\net8.0\StringSearch.genruntimeconfig.cache
+C:\study\CS\StringSearch\obj\Debug\net8.0\ref\StringSearch.dll

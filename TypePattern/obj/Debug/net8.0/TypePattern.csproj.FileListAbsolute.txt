@@ -1,0 +1,15 @@
+C:\study\CS\TypePattern\bin\Debug\net8.0\TypePattern.exe
+C:\study\CS\TypePattern\bin\Debug\net8.0\TypePattern.deps.json
+C:\study\CS\TypePattern\bin\Debug\net8.0\TypePattern.runtimeconfig.json
+C:\study\CS\TypePattern\bin\Debug\net8.0\TypePattern.dll
+C:\study\CS\TypePattern\bin\Debug\net8.0\TypePattern.pdb
+C:\study\CS\TypePattern\obj\Debug\net8.0\TypePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CS\TypePattern\obj\Debug\net8.0\TypePattern.AssemblyInfoInputs.cache
+C:\study\CS\TypePattern\obj\Debug\net8.0\TypePattern.AssemblyInfo.cs
+C:\study\CS\TypePattern\obj\Debug\net8.0\TypePattern.csproj.CoreCompileInputs.cache
+C:\study\CS\TypePattern\obj\Debug\net8.0\TypePattern.sourcelink.json
+C:\study\CS\TypePattern\obj\Debug\net8.0\TypePattern.dll
+C:\study\CS\TypePattern\obj\Debug\net8.0\refint\TypePattern.dll
+C:\study\CS\TypePattern\obj\Debug\net8.0\TypePattern.pdb
+C:\study\CS\TypePattern\obj\Debug\net8.0\TypePattern.genruntimeconfig.cache
+C:\study\CS\TypePattern\obj\Debug\net8.0\ref\TypePattern.dll

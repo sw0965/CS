@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\study\\CPP\\Nullable\\Nullable.csproj": {}
+    "C:\\study\\CS\\Nullable\\Nullable.csproj": {}
   },
   "projects": {
-    "C:\\study\\CPP\\Nullable\\Nullable.csproj": {
+    "C:\\study\\CS\\Nullable\\Nullable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\study\\CPP\\Nullable\\Nullable.csproj",
+        "projectUniqueName": "C:\\study\\CS\\Nullable\\Nullable.csproj",
         "projectName": "Nullable",
-        "projectPath": "C:\\study\\CPP\\Nullable\\Nullable.csproj",
+        "projectPath": "C:\\study\\CS\\Nullable\\Nullable.csproj",
         "packagesPath": "C:\\Users\\zx096\\.nuget\\packages\\",
-        "outputPath": "C:\\study\\CPP\\Nullable\\obj\\",
+        "outputPath": "C:\\study\\CS\\Nullable\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

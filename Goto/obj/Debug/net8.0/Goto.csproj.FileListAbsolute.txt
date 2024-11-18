@@ -1,0 +1,15 @@
+C:\study\CS\Goto\bin\Debug\net8.0\Goto.exe
+C:\study\CS\Goto\bin\Debug\net8.0\Goto.deps.json
+C:\study\CS\Goto\bin\Debug\net8.0\Goto.runtimeconfig.json
+C:\study\CS\Goto\bin\Debug\net8.0\Goto.dll
+C:\study\CS\Goto\bin\Debug\net8.0\Goto.pdb
+C:\study\CS\Goto\obj\Debug\net8.0\Goto.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CS\Goto\obj\Debug\net8.0\Goto.AssemblyInfoInputs.cache
+C:\study\CS\Goto\obj\Debug\net8.0\Goto.AssemblyInfo.cs
+C:\study\CS\Goto\obj\Debug\net8.0\Goto.csproj.CoreCompileInputs.cache
+C:\study\CS\Goto\obj\Debug\net8.0\Goto.sourcelink.json
+C:\study\CS\Goto\obj\Debug\net8.0\Goto.dll
+C:\study\CS\Goto\obj\Debug\net8.0\refint\Goto.dll
+C:\study\CS\Goto\obj\Debug\net8.0\Goto.pdb
+C:\study\CS\Goto\obj\Debug\net8.0\Goto.genruntimeconfig.cache
+C:\study\CS\Goto\obj\Debug\net8.0\ref\Goto.dll

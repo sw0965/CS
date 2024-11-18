@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\study\\CPP\\Enum3\\Enum3.csproj",
+      "projectUniqueName": "C:\\study\\CS\\Enum3\\Enum3.csproj",
       "projectName": "Enum3",
-      "projectPath": "C:\\study\\CPP\\Enum3\\Enum3.csproj",
+      "projectPath": "C:\\study\\CS\\Enum3\\Enum3.csproj",
       "packagesPath": "C:\\Users\\zx096\\.nuget\\packages\\",
-      "outputPath": "C:\\study\\CPP\\Enum3\\obj\\",
+      "outputPath": "C:\\study\\CS\\Enum3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\study\\CPP\\Nullable\\",
+  "WorkspaceRootPath": "C:\\study\\CS\\Nullable\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24109A08-236B-4127-8FAC-144D28D691F5}|Nullable.csproj|c:\\study\\cpp\\nullable\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24109A08-236B-4127-8FAC-144D28D691F5}|Nullable.csproj|c:\\study\\cs\\nullable\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24109A08-236B-4127-8FAC-144D28D691F5}|Nullable.csproj|solutionrelative:mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainApp.cs",
-              "DocumentMoniker": "C:\\study\\CPP\\Nullable\\MainApp.cs",
+              "DocumentMoniker": "C:\\study\\CS\\Nullable\\MainApp.cs",
               "RelativeDocumentMoniker": "MainApp.cs",
-              "ToolTip": "C:\\study\\CPP\\Nullable\\MainApp.cs",
+              "ToolTip": "C:\\study\\CS\\Nullable\\MainApp.cs",
               "RelativeToolTip": "MainApp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T08:02:21.715Z",
               "EditorCaption": ""

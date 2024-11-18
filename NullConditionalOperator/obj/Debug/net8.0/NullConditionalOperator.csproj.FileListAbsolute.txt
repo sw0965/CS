@@ -1,0 +1,15 @@
+C:\study\CS\NullConditionalOperator\bin\Debug\net8.0\NullConditionalOperator.exe
+C:\study\CS\NullConditionalOperator\bin\Debug\net8.0\NullConditionalOperator.deps.json
+C:\study\CS\NullConditionalOperator\bin\Debug\net8.0\NullConditionalOperator.runtimeconfig.json
+C:\study\CS\NullConditionalOperator\bin\Debug\net8.0\NullConditionalOperator.dll
+C:\study\CS\NullConditionalOperator\bin\Debug\net8.0\NullConditionalOperator.pdb
+C:\study\CS\NullConditionalOperator\obj\Debug\net8.0\NullConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CS\NullConditionalOperator\obj\Debug\net8.0\NullConditionalOperator.AssemblyInfoInputs.cache
+C:\study\CS\NullConditionalOperator\obj\Debug\net8.0\NullConditionalOperator.AssemblyInfo.cs
+C:\study\CS\NullConditionalOperator\obj\Debug\net8.0\NullConditionalOperator.csproj.CoreCompileInputs.cache
+C:\study\CS\NullConditionalOperator\obj\Debug\net8.0\NullConditionalOperator.sourcelink.json
+C:\study\CS\NullConditionalOperator\obj\Debug\net8.0\NullConditionalOperator.dll
+C:\study\CS\NullConditionalOperator\obj\Debug\net8.0\refint\NullConditionalOperator.dll
+C:\study\CS\NullConditionalOperator\obj\Debug\net8.0\NullConditionalOperator.pdb
+C:\study\CS\NullConditionalOperator\obj\Debug\net8.0\NullConditionalOperator.genruntimeconfig.cache
+C:\study\CS\NullConditionalOperator\obj\Debug\net8.0\ref\NullConditionalOperator.dll

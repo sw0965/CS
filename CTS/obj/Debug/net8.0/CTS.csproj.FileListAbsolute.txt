@@ -1,0 +1,15 @@
+C:\study\CS\CTS\bin\Debug\net8.0\CTS.exe
+C:\study\CS\CTS\bin\Debug\net8.0\CTS.deps.json
+C:\study\CS\CTS\bin\Debug\net8.0\CTS.runtimeconfig.json
+C:\study\CS\CTS\bin\Debug\net8.0\CTS.dll
+C:\study\CS\CTS\bin\Debug\net8.0\CTS.pdb
+C:\study\CS\CTS\obj\Debug\net8.0\CTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CS\CTS\obj\Debug\net8.0\CTS.AssemblyInfoInputs.cache
+C:\study\CS\CTS\obj\Debug\net8.0\CTS.AssemblyInfo.cs
+C:\study\CS\CTS\obj\Debug\net8.0\CTS.csproj.CoreCompileInputs.cache
+C:\study\CS\CTS\obj\Debug\net8.0\CTS.sourcelink.json
+C:\study\CS\CTS\obj\Debug\net8.0\CTS.dll
+C:\study\CS\CTS\obj\Debug\net8.0\refint\CTS.dll
+C:\study\CS\CTS\obj\Debug\net8.0\CTS.pdb
+C:\study\CS\CTS\obj\Debug\net8.0\CTS.genruntimeconfig.cache
+C:\study\CS\CTS\obj\Debug\net8.0\ref\CTS.dll

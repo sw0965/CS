@@ -1,4 +1,6 @@
-﻿namespace Enum3
+﻿using System;
+
+namespace Enum3
 {
     class MainApp
     {
