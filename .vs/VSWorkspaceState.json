@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\exercise",
+    "\\exercise\\bin",
+    "\\exercise\\bin\\Debug",
+    "\\exercise\\bin\\Debug\\net8.0",
+    "\\Hello",
+    "\\Hello\\bin\\Debug",
+    "\\Hello\\bin\\Debug\\net8.0",
+    "\\Hello\\obj\\Debug",
+    "\\Hello\\obj\\Debug\\net8.0"
+  ],
+  "SelectedNode": "\\Hello\\Hello.csproj",
+  "PreviewInSolutionExplorer": false
+}

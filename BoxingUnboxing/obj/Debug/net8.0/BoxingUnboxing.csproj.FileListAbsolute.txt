@@ -1,0 +1,14 @@
+C:\study\CPP\BoxingUnboxing\bin\Debug\net8.0\BoxingUnboxing.exe
+C:\study\CPP\BoxingUnboxing\bin\Debug\net8.0\BoxingUnboxing.deps.json
+C:\study\CPP\BoxingUnboxing\bin\Debug\net8.0\BoxingUnboxing.runtimeconfig.json
+C:\study\CPP\BoxingUnboxing\bin\Debug\net8.0\BoxingUnboxing.dll
+C:\study\CPP\BoxingUnboxing\bin\Debug\net8.0\BoxingUnboxing.pdb
+C:\study\CPP\BoxingUnboxing\obj\Debug\net8.0\BoxingUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CPP\BoxingUnboxing\obj\Debug\net8.0\BoxingUnboxing.AssemblyInfoInputs.cache
+C:\study\CPP\BoxingUnboxing\obj\Debug\net8.0\BoxingUnboxing.AssemblyInfo.cs
+C:\study\CPP\BoxingUnboxing\obj\Debug\net8.0\BoxingUnboxing.csproj.CoreCompileInputs.cache
+C:\study\CPP\BoxingUnboxing\obj\Debug\net8.0\BoxingUnboxing.dll
+C:\study\CPP\BoxingUnboxing\obj\Debug\net8.0\refint\BoxingUnboxing.dll
+C:\study\CPP\BoxingUnboxing\obj\Debug\net8.0\BoxingUnboxing.pdb
+C:\study\CPP\BoxingUnboxing\obj\Debug\net8.0\BoxingUnboxing.genruntimeconfig.cache
+C:\study\CPP\BoxingUnboxing\obj\Debug\net8.0\ref\BoxingUnboxing.dll

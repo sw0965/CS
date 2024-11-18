@@ -1,0 +1,14 @@
+C:\study\CPP\StringNumberConversion\bin\Debug\net8.0\StringNumberConversion.exe
+C:\study\CPP\StringNumberConversion\bin\Debug\net8.0\StringNumberConversion.deps.json
+C:\study\CPP\StringNumberConversion\bin\Debug\net8.0\StringNumberConversion.runtimeconfig.json
+C:\study\CPP\StringNumberConversion\bin\Debug\net8.0\StringNumberConversion.dll
+C:\study\CPP\StringNumberConversion\bin\Debug\net8.0\StringNumberConversion.pdb
+C:\study\CPP\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CPP\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.AssemblyInfoInputs.cache
+C:\study\CPP\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.AssemblyInfo.cs
+C:\study\CPP\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.csproj.CoreCompileInputs.cache
+C:\study\CPP\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.dll
+C:\study\CPP\StringNumberConversion\obj\Debug\net8.0\refint\StringNumberConversion.dll
+C:\study\CPP\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.pdb
+C:\study\CPP\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.genruntimeconfig.cache
+C:\study\CPP\StringNumberConversion\obj\Debug\net8.0\ref\StringNumberConversion.dll

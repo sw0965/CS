@@ -1,0 +1,14 @@
+C:\study\CPP\String\bin\Debug\net8.0\String.exe
+C:\study\CPP\String\bin\Debug\net8.0\String.deps.json
+C:\study\CPP\String\bin\Debug\net8.0\String.runtimeconfig.json
+C:\study\CPP\String\bin\Debug\net8.0\String.dll
+C:\study\CPP\String\bin\Debug\net8.0\String.pdb
+C:\study\CPP\String\obj\Debug\net8.0\String.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CPP\String\obj\Debug\net8.0\String.AssemblyInfoInputs.cache
+C:\study\CPP\String\obj\Debug\net8.0\String.AssemblyInfo.cs
+C:\study\CPP\String\obj\Debug\net8.0\String.csproj.CoreCompileInputs.cache
+C:\study\CPP\String\obj\Debug\net8.0\String.dll
+C:\study\CPP\String\obj\Debug\net8.0\refint\String.dll
+C:\study\CPP\String\obj\Debug\net8.0\String.pdb
+C:\study\CPP\String\obj\Debug\net8.0\String.genruntimeconfig.cache
+C:\study\CPP\String\obj\Debug\net8.0\ref\String.dll

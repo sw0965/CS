@@ -1,0 +1,14 @@
+C:\study\CPP\IntegralTypes\bin\Debug\net8.0\IntegralTypes.exe
+C:\study\CPP\IntegralTypes\bin\Debug\net8.0\IntegralTypes.deps.json
+C:\study\CPP\IntegralTypes\bin\Debug\net8.0\IntegralTypes.runtimeconfig.json
+C:\study\CPP\IntegralTypes\bin\Debug\net8.0\IntegralTypes.dll
+C:\study\CPP\IntegralTypes\bin\Debug\net8.0\IntegralTypes.pdb
+C:\study\CPP\IntegralTypes\obj\Debug\net8.0\IntegralTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CPP\IntegralTypes\obj\Debug\net8.0\IntegralTypes.AssemblyInfoInputs.cache
+C:\study\CPP\IntegralTypes\obj\Debug\net8.0\IntegralTypes.AssemblyInfo.cs
+C:\study\CPP\IntegralTypes\obj\Debug\net8.0\IntegralTypes.csproj.CoreCompileInputs.cache
+C:\study\CPP\IntegralTypes\obj\Debug\net8.0\IntegralTypes.dll
+C:\study\CPP\IntegralTypes\obj\Debug\net8.0\refint\IntegralTypes.dll
+C:\study\CPP\IntegralTypes\obj\Debug\net8.0\IntegralTypes.pdb
+C:\study\CPP\IntegralTypes\obj\Debug\net8.0\IntegralTypes.genruntimeconfig.cache
+C:\study\CPP\IntegralTypes\obj\Debug\net8.0\ref\IntegralTypes.dll

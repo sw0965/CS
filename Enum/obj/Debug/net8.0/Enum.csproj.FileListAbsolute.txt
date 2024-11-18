@@ -1,0 +1,14 @@
+C:\study\CPP\Enum\bin\Debug\net8.0\Enum.exe
+C:\study\CPP\Enum\bin\Debug\net8.0\Enum.deps.json
+C:\study\CPP\Enum\bin\Debug\net8.0\Enum.runtimeconfig.json
+C:\study\CPP\Enum\bin\Debug\net8.0\Enum.dll
+C:\study\CPP\Enum\bin\Debug\net8.0\Enum.pdb
+C:\study\CPP\Enum\obj\Debug\net8.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CPP\Enum\obj\Debug\net8.0\Enum.AssemblyInfoInputs.cache
+C:\study\CPP\Enum\obj\Debug\net8.0\Enum.AssemblyInfo.cs
+C:\study\CPP\Enum\obj\Debug\net8.0\Enum.csproj.CoreCompileInputs.cache
+C:\study\CPP\Enum\obj\Debug\net8.0\Enum.dll
+C:\study\CPP\Enum\obj\Debug\net8.0\refint\Enum.dll
+C:\study\CPP\Enum\obj\Debug\net8.0\Enum.pdb
+C:\study\CPP\Enum\obj\Debug\net8.0\Enum.genruntimeconfig.cache
+C:\study\CPP\Enum\obj\Debug\net8.0\ref\Enum.dll

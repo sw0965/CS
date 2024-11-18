@@ -1,0 +1,14 @@
+C:\study\CPP\IntegerLiterals\bin\Debug\net8.0\IntegerLiterals.exe
+C:\study\CPP\IntegerLiterals\bin\Debug\net8.0\IntegerLiterals.deps.json
+C:\study\CPP\IntegerLiterals\bin\Debug\net8.0\IntegerLiterals.runtimeconfig.json
+C:\study\CPP\IntegerLiterals\bin\Debug\net8.0\IntegerLiterals.dll
+C:\study\CPP\IntegerLiterals\bin\Debug\net8.0\IntegerLiterals.pdb
+C:\study\CPP\IntegerLiterals\obj\Debug\net8.0\IntegerLiterals.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CPP\IntegerLiterals\obj\Debug\net8.0\IntegerLiterals.AssemblyInfoInputs.cache
+C:\study\CPP\IntegerLiterals\obj\Debug\net8.0\IntegerLiterals.AssemblyInfo.cs
+C:\study\CPP\IntegerLiterals\obj\Debug\net8.0\IntegerLiterals.csproj.CoreCompileInputs.cache
+C:\study\CPP\IntegerLiterals\obj\Debug\net8.0\IntegerLiterals.dll
+C:\study\CPP\IntegerLiterals\obj\Debug\net8.0\refint\IntegerLiterals.dll
+C:\study\CPP\IntegerLiterals\obj\Debug\net8.0\IntegerLiterals.pdb
+C:\study\CPP\IntegerLiterals\obj\Debug\net8.0\IntegerLiterals.genruntimeconfig.cache
+C:\study\CPP\IntegerLiterals\obj\Debug\net8.0\ref\IntegerLiterals.dll

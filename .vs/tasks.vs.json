@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-MainApp2",
+      "appliesTo": "exercise/MainApp2.cs",
+      "type": "launch"
+    }
+  ]
+}

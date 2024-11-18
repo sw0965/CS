@@ -1,0 +1,14 @@
+C:\study\CPP\FloatToIntegral\bin\Debug\net8.0\FloatToIntegral.exe
+C:\study\CPP\FloatToIntegral\bin\Debug\net8.0\FloatToIntegral.deps.json
+C:\study\CPP\FloatToIntegral\bin\Debug\net8.0\FloatToIntegral.runtimeconfig.json
+C:\study\CPP\FloatToIntegral\bin\Debug\net8.0\FloatToIntegral.dll
+C:\study\CPP\FloatToIntegral\bin\Debug\net8.0\FloatToIntegral.pdb
+C:\study\CPP\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CPP\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.AssemblyInfoInputs.cache
+C:\study\CPP\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.AssemblyInfo.cs
+C:\study\CPP\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.csproj.CoreCompileInputs.cache
+C:\study\CPP\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.dll
+C:\study\CPP\FloatToIntegral\obj\Debug\net8.0\refint\FloatToIntegral.dll
+C:\study\CPP\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.pdb
+C:\study\CPP\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.genruntimeconfig.cache
+C:\study\CPP\FloatToIntegral\obj\Debug\net8.0\ref\FloatToIntegral.dll

@@ -1,0 +1,14 @@
+C:\study\CPP\FloatConversion\bin\Debug\net8.0\FloatConversion.exe
+C:\study\CPP\FloatConversion\bin\Debug\net8.0\FloatConversion.deps.json
+C:\study\CPP\FloatConversion\bin\Debug\net8.0\FloatConversion.runtimeconfig.json
+C:\study\CPP\FloatConversion\bin\Debug\net8.0\FloatConversion.dll
+C:\study\CPP\FloatConversion\bin\Debug\net8.0\FloatConversion.pdb
+C:\study\CPP\FloatConversion\obj\Debug\net8.0\FloatConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CPP\FloatConversion\obj\Debug\net8.0\FloatConversion.AssemblyInfoInputs.cache
+C:\study\CPP\FloatConversion\obj\Debug\net8.0\FloatConversion.AssemblyInfo.cs
+C:\study\CPP\FloatConversion\obj\Debug\net8.0\FloatConversion.csproj.CoreCompileInputs.cache
+C:\study\CPP\FloatConversion\obj\Debug\net8.0\FloatConversion.dll
+C:\study\CPP\FloatConversion\obj\Debug\net8.0\refint\FloatConversion.dll
+C:\study\CPP\FloatConversion\obj\Debug\net8.0\FloatConversion.pdb
+C:\study\CPP\FloatConversion\obj\Debug\net8.0\FloatConversion.genruntimeconfig.cache
+C:\study\CPP\FloatConversion\obj\Debug\net8.0\ref\FloatConversion.dll

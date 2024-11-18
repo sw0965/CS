@@ -1,0 +1,14 @@
+C:\study\CPP\FloatingPoint\bin\Debug\net8.0\FloatingPoint.exe
+C:\study\CPP\FloatingPoint\bin\Debug\net8.0\FloatingPoint.deps.json
+C:\study\CPP\FloatingPoint\bin\Debug\net8.0\FloatingPoint.runtimeconfig.json
+C:\study\CPP\FloatingPoint\bin\Debug\net8.0\FloatingPoint.dll
+C:\study\CPP\FloatingPoint\bin\Debug\net8.0\FloatingPoint.pdb
+C:\study\CPP\FloatingPoint\obj\Debug\net8.0\FloatingPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CPP\FloatingPoint\obj\Debug\net8.0\FloatingPoint.AssemblyInfoInputs.cache
+C:\study\CPP\FloatingPoint\obj\Debug\net8.0\FloatingPoint.AssemblyInfo.cs
+C:\study\CPP\FloatingPoint\obj\Debug\net8.0\FloatingPoint.csproj.CoreCompileInputs.cache
+C:\study\CPP\FloatingPoint\obj\Debug\net8.0\FloatingPoint.dll
+C:\study\CPP\FloatingPoint\obj\Debug\net8.0\refint\FloatingPoint.dll
+C:\study\CPP\FloatingPoint\obj\Debug\net8.0\FloatingPoint.pdb
+C:\study\CPP\FloatingPoint\obj\Debug\net8.0\FloatingPoint.genruntimeconfig.cache
+C:\study\CPP\FloatingPoint\obj\Debug\net8.0\ref\FloatingPoint.dll

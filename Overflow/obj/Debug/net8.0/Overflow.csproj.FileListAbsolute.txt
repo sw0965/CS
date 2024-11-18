@@ -1,0 +1,14 @@
+C:\study\CPP\Overflow\bin\Debug\net8.0\Overflow.exe
+C:\study\CPP\Overflow\bin\Debug\net8.0\Overflow.deps.json
+C:\study\CPP\Overflow\bin\Debug\net8.0\Overflow.runtimeconfig.json
+C:\study\CPP\Overflow\bin\Debug\net8.0\Overflow.dll
+C:\study\CPP\Overflow\bin\Debug\net8.0\Overflow.pdb
+C:\study\CPP\Overflow\obj\Debug\net8.0\Overflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CPP\Overflow\obj\Debug\net8.0\Overflow.AssemblyInfoInputs.cache
+C:\study\CPP\Overflow\obj\Debug\net8.0\Overflow.AssemblyInfo.cs
+C:\study\CPP\Overflow\obj\Debug\net8.0\Overflow.csproj.CoreCompileInputs.cache
+C:\study\CPP\Overflow\obj\Debug\net8.0\Overflow.dll
+C:\study\CPP\Overflow\obj\Debug\net8.0\refint\Overflow.dll
+C:\study\CPP\Overflow\obj\Debug\net8.0\Overflow.pdb
+C:\study\CPP\Overflow\obj\Debug\net8.0\Overflow.genruntimeconfig.cache
+C:\study\CPP\Overflow\obj\Debug\net8.0\ref\Overflow.dll

@@ -1,0 +1,14 @@
+C:\study\CPP\exercise\obj\Debug\net8.0\exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CPP\exercise\obj\Debug\net8.0\exercise.AssemblyInfoInputs.cache
+C:\study\CPP\exercise\obj\Debug\net8.0\exercise.AssemblyInfo.cs
+C:\study\CPP\exercise\obj\Debug\net8.0\exercise.csproj.CoreCompileInputs.cache
+C:\study\CPP\exercise\bin\Debug\net8.0\exercise.exe
+C:\study\CPP\exercise\bin\Debug\net8.0\exercise.deps.json
+C:\study\CPP\exercise\bin\Debug\net8.0\exercise.runtimeconfig.json
+C:\study\CPP\exercise\bin\Debug\net8.0\exercise.dll
+C:\study\CPP\exercise\bin\Debug\net8.0\exercise.pdb
+C:\study\CPP\exercise\obj\Debug\net8.0\exercise.dll
+C:\study\CPP\exercise\obj\Debug\net8.0\refint\exercise.dll
+C:\study\CPP\exercise\obj\Debug\net8.0\exercise.pdb
+C:\study\CPP\exercise\obj\Debug\net8.0\exercise.genruntimeconfig.cache
+C:\study\CPP\exercise\obj\Debug\net8.0\ref\exercise.dll

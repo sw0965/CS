@@ -1,0 +1,14 @@
+C:\study\CPP\Bool\bin\Debug\net8.0\Bool.exe
+C:\study\CPP\Bool\bin\Debug\net8.0\Bool.deps.json
+C:\study\CPP\Bool\bin\Debug\net8.0\Bool.runtimeconfig.json
+C:\study\CPP\Bool\bin\Debug\net8.0\Bool.dll
+C:\study\CPP\Bool\bin\Debug\net8.0\Bool.pdb
+C:\study\CPP\Bool\obj\Debug\net8.0\Bool.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CPP\Bool\obj\Debug\net8.0\Bool.AssemblyInfoInputs.cache
+C:\study\CPP\Bool\obj\Debug\net8.0\Bool.AssemblyInfo.cs
+C:\study\CPP\Bool\obj\Debug\net8.0\Bool.csproj.CoreCompileInputs.cache
+C:\study\CPP\Bool\obj\Debug\net8.0\Bool.dll
+C:\study\CPP\Bool\obj\Debug\net8.0\refint\Bool.dll
+C:\study\CPP\Bool\obj\Debug\net8.0\Bool.pdb
+C:\study\CPP\Bool\obj\Debug\net8.0\Bool.genruntimeconfig.cache
+C:\study\CPP\Bool\obj\Debug\net8.0\ref\Bool.dll

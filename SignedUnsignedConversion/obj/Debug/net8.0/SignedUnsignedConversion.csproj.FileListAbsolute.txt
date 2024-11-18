@@ -1,0 +1,14 @@
+C:\study\CPP\SignedUnsignedConversion\bin\Debug\net8.0\SignedUnsignedConversion.exe
+C:\study\CPP\SignedUnsignedConversion\bin\Debug\net8.0\SignedUnsignedConversion.deps.json
+C:\study\CPP\SignedUnsignedConversion\bin\Debug\net8.0\SignedUnsignedConversion.runtimeconfig.json
+C:\study\CPP\SignedUnsignedConversion\bin\Debug\net8.0\SignedUnsignedConversion.dll
+C:\study\CPP\SignedUnsignedConversion\bin\Debug\net8.0\SignedUnsignedConversion.pdb
+C:\study\CPP\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CPP\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.AssemblyInfoInputs.cache
+C:\study\CPP\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.AssemblyInfo.cs
+C:\study\CPP\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.csproj.CoreCompileInputs.cache
+C:\study\CPP\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.dll
+C:\study\CPP\SignedUnsignedConversion\obj\Debug\net8.0\refint\SignedUnsignedConversion.dll
+C:\study\CPP\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.pdb
+C:\study\CPP\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.genruntimeconfig.cache
+C:\study\CPP\SignedUnsignedConversion\obj\Debug\net8.0\ref\SignedUnsignedConversion.dll

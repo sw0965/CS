@@ -1,0 +1,14 @@
+C:\study\CPP\Decimal\bin\Debug\net8.0\Decimal.exe
+C:\study\CPP\Decimal\bin\Debug\net8.0\Decimal.deps.json
+C:\study\CPP\Decimal\bin\Debug\net8.0\Decimal.runtimeconfig.json
+C:\study\CPP\Decimal\bin\Debug\net8.0\Decimal.dll
+C:\study\CPP\Decimal\bin\Debug\net8.0\Decimal.pdb
+C:\study\CPP\Decimal\obj\Debug\net8.0\Decimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CPP\Decimal\obj\Debug\net8.0\Decimal.AssemblyInfoInputs.cache
+C:\study\CPP\Decimal\obj\Debug\net8.0\Decimal.AssemblyInfo.cs
+C:\study\CPP\Decimal\obj\Debug\net8.0\Decimal.csproj.CoreCompileInputs.cache
+C:\study\CPP\Decimal\obj\Debug\net8.0\Decimal.dll
+C:\study\CPP\Decimal\obj\Debug\net8.0\refint\Decimal.dll
+C:\study\CPP\Decimal\obj\Debug\net8.0\Decimal.pdb
+C:\study\CPP\Decimal\obj\Debug\net8.0\Decimal.genruntimeconfig.cache
+C:\study\CPP\Decimal\obj\Debug\net8.0\ref\Decimal.dll
