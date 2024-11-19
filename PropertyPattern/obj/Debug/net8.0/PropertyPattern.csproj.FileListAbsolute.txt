@@ -1,0 +1,15 @@
+C:\study\CS\PropertyPattern\bin\Debug\net8.0\PropertyPattern.exe
+C:\study\CS\PropertyPattern\bin\Debug\net8.0\PropertyPattern.deps.json
+C:\study\CS\PropertyPattern\bin\Debug\net8.0\PropertyPattern.runtimeconfig.json
+C:\study\CS\PropertyPattern\bin\Debug\net8.0\PropertyPattern.dll
+C:\study\CS\PropertyPattern\bin\Debug\net8.0\PropertyPattern.pdb
+C:\study\CS\PropertyPattern\obj\Debug\net8.0\PropertyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CS\PropertyPattern\obj\Debug\net8.0\PropertyPattern.AssemblyInfoInputs.cache
+C:\study\CS\PropertyPattern\obj\Debug\net8.0\PropertyPattern.AssemblyInfo.cs
+C:\study\CS\PropertyPattern\obj\Debug\net8.0\PropertyPattern.csproj.CoreCompileInputs.cache
+C:\study\CS\PropertyPattern\obj\Debug\net8.0\PropertyPattern.sourcelink.json
+C:\study\CS\PropertyPattern\obj\Debug\net8.0\PropertyPattern.dll
+C:\study\CS\PropertyPattern\obj\Debug\net8.0\refint\PropertyPattern.dll
+C:\study\CS\PropertyPattern\obj\Debug\net8.0\PropertyPattern.pdb
+C:\study\CS\PropertyPattern\obj\Debug\net8.0\PropertyPattern.genruntimeconfig.cache
+C:\study\CS\PropertyPattern\obj\Debug\net8.0\ref\PropertyPattern.dll

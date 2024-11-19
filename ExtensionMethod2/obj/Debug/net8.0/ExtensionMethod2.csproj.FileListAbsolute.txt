@@ -1,0 +1,15 @@
+C:\study\CS\ExtensionMethod2\bin\Debug\net8.0\ExtensionMethod2.exe
+C:\study\CS\ExtensionMethod2\bin\Debug\net8.0\ExtensionMethod2.deps.json
+C:\study\CS\ExtensionMethod2\bin\Debug\net8.0\ExtensionMethod2.runtimeconfig.json
+C:\study\CS\ExtensionMethod2\bin\Debug\net8.0\ExtensionMethod2.dll
+C:\study\CS\ExtensionMethod2\bin\Debug\net8.0\ExtensionMethod2.pdb
+C:\study\CS\ExtensionMethod2\obj\Debug\net8.0\ExtensionMethod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CS\ExtensionMethod2\obj\Debug\net8.0\ExtensionMethod2.AssemblyInfoInputs.cache
+C:\study\CS\ExtensionMethod2\obj\Debug\net8.0\ExtensionMethod2.AssemblyInfo.cs
+C:\study\CS\ExtensionMethod2\obj\Debug\net8.0\ExtensionMethod2.csproj.CoreCompileInputs.cache
+C:\study\CS\ExtensionMethod2\obj\Debug\net8.0\ExtensionMethod2.sourcelink.json
+C:\study\CS\ExtensionMethod2\obj\Debug\net8.0\ExtensionMethod2.dll
+C:\study\CS\ExtensionMethod2\obj\Debug\net8.0\refint\ExtensionMethod2.dll
+C:\study\CS\ExtensionMethod2\obj\Debug\net8.0\ExtensionMethod2.pdb
+C:\study\CS\ExtensionMethod2\obj\Debug\net8.0\ExtensionMethod2.genruntimeconfig.cache
+C:\study\CS\ExtensionMethod2\obj\Debug\net8.0\ref\ExtensionMethod2.dll

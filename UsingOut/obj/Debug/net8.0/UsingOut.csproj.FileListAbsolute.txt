@@ -1,0 +1,15 @@
+C:\study\CS\UsingOut\bin\Debug\net8.0\UsingOut.exe
+C:\study\CS\UsingOut\bin\Debug\net8.0\UsingOut.deps.json
+C:\study\CS\UsingOut\bin\Debug\net8.0\UsingOut.runtimeconfig.json
+C:\study\CS\UsingOut\bin\Debug\net8.0\UsingOut.dll
+C:\study\CS\UsingOut\bin\Debug\net8.0\UsingOut.pdb
+C:\study\CS\UsingOut\obj\Debug\net8.0\UsingOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CS\UsingOut\obj\Debug\net8.0\UsingOut.AssemblyInfoInputs.cache
+C:\study\CS\UsingOut\obj\Debug\net8.0\UsingOut.AssemblyInfo.cs
+C:\study\CS\UsingOut\obj\Debug\net8.0\UsingOut.csproj.CoreCompileInputs.cache
+C:\study\CS\UsingOut\obj\Debug\net8.0\UsingOut.sourcelink.json
+C:\study\CS\UsingOut\obj\Debug\net8.0\UsingOut.dll
+C:\study\CS\UsingOut\obj\Debug\net8.0\refint\UsingOut.dll
+C:\study\CS\UsingOut\obj\Debug\net8.0\UsingOut.pdb
+C:\study\CS\UsingOut\obj\Debug\net8.0\UsingOut.genruntimeconfig.cache
+C:\study\CS\UsingOut\obj\Debug\net8.0\ref\UsingOut.dll

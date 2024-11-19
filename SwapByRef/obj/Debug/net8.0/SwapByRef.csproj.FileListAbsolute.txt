@@ -1,0 +1,15 @@
+C:\study\CS\SwapByRef\bin\Debug\net8.0\SwapByRef.exe
+C:\study\CS\SwapByRef\bin\Debug\net8.0\SwapByRef.deps.json
+C:\study\CS\SwapByRef\bin\Debug\net8.0\SwapByRef.runtimeconfig.json
+C:\study\CS\SwapByRef\bin\Debug\net8.0\SwapByRef.dll
+C:\study\CS\SwapByRef\bin\Debug\net8.0\SwapByRef.pdb
+C:\study\CS\SwapByRef\obj\Debug\net8.0\SwapByRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CS\SwapByRef\obj\Debug\net8.0\SwapByRef.AssemblyInfoInputs.cache
+C:\study\CS\SwapByRef\obj\Debug\net8.0\SwapByRef.AssemblyInfo.cs
+C:\study\CS\SwapByRef\obj\Debug\net8.0\SwapByRef.csproj.CoreCompileInputs.cache
+C:\study\CS\SwapByRef\obj\Debug\net8.0\SwapByRef.sourcelink.json
+C:\study\CS\SwapByRef\obj\Debug\net8.0\SwapByRef.dll
+C:\study\CS\SwapByRef\obj\Debug\net8.0\refint\SwapByRef.dll
+C:\study\CS\SwapByRef\obj\Debug\net8.0\SwapByRef.pdb
+C:\study\CS\SwapByRef\obj\Debug\net8.0\SwapByRef.genruntimeconfig.cache
+C:\study\CS\SwapByRef\obj\Debug\net8.0\ref\SwapByRef.dll

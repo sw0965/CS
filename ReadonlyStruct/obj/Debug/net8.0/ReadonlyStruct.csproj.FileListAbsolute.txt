@@ -1,0 +1,15 @@
+C:\study\CS\ReadonlyStruct\bin\Debug\net8.0\ReadonlyStruct.exe
+C:\study\CS\ReadonlyStruct\bin\Debug\net8.0\ReadonlyStruct.deps.json
+C:\study\CS\ReadonlyStruct\bin\Debug\net8.0\ReadonlyStruct.runtimeconfig.json
+C:\study\CS\ReadonlyStruct\bin\Debug\net8.0\ReadonlyStruct.dll
+C:\study\CS\ReadonlyStruct\bin\Debug\net8.0\ReadonlyStruct.pdb
+C:\study\CS\ReadonlyStruct\obj\Debug\net8.0\ReadonlyStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CS\ReadonlyStruct\obj\Debug\net8.0\ReadonlyStruct.AssemblyInfoInputs.cache
+C:\study\CS\ReadonlyStruct\obj\Debug\net8.0\ReadonlyStruct.AssemblyInfo.cs
+C:\study\CS\ReadonlyStruct\obj\Debug\net8.0\ReadonlyStruct.csproj.CoreCompileInputs.cache
+C:\study\CS\ReadonlyStruct\obj\Debug\net8.0\ReadonlyStruct.sourcelink.json
+C:\study\CS\ReadonlyStruct\obj\Debug\net8.0\ReadonlyStruct.dll
+C:\study\CS\ReadonlyStruct\obj\Debug\net8.0\refint\ReadonlyStruct.dll
+C:\study\CS\ReadonlyStruct\obj\Debug\net8.0\ReadonlyStruct.pdb
+C:\study\CS\ReadonlyStruct\obj\Debug\net8.0\ReadonlyStruct.genruntimeconfig.cache
+C:\study\CS\ReadonlyStruct\obj\Debug\net8.0\ref\ReadonlyStruct.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PropertyPattern/1.0.0": {
+        "runtime": {
+          "PropertyPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PropertyPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

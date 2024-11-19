@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\study\\CS\\PropertyPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2CAB8AF-EB92-4A09-A2EE-01EB94164833}|PropertyPattern.csproj|c:\\study\\cs\\propertypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2CAB8AF-EB92-4A09-A2EE-01EB94164833}|PropertyPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2CAB8AF-EB92-4A09-A2EE-01EB94164833}|PropertyPattern.csproj|c:\\study\\cs\\propertypattern\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CAB8AF-EB92-4A09-A2EE-01EB94164833}|PropertyPattern.csproj|solutionrelative:mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\study\\CS\\PropertyPattern\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\study\\CS\\PropertyPattern\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MainApp.cs",
+              "DocumentMoniker": "C:\\study\\CS\\PropertyPattern\\MainApp.cs",
+              "RelativeDocumentMoniker": "MainApp.cs",
+              "ToolTip": "C:\\study\\CS\\PropertyPattern\\MainApp.cs",
+              "RelativeToolTip": "MainApp.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAzwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T15:24:40.117Z",
               "EditorCaption": ""
