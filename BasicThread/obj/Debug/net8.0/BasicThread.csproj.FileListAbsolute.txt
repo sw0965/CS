@@ -1,0 +1,15 @@
+C:\study\CS\BasicThread\bin\Debug\net8.0\BasicThread.exe
+C:\study\CS\BasicThread\bin\Debug\net8.0\BasicThread.deps.json
+C:\study\CS\BasicThread\bin\Debug\net8.0\BasicThread.runtimeconfig.json
+C:\study\CS\BasicThread\bin\Debug\net8.0\BasicThread.dll
+C:\study\CS\BasicThread\bin\Debug\net8.0\BasicThread.pdb
+C:\study\CS\BasicThread\obj\Debug\net8.0\BasicThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CS\BasicThread\obj\Debug\net8.0\BasicThread.AssemblyInfoInputs.cache
+C:\study\CS\BasicThread\obj\Debug\net8.0\BasicThread.AssemblyInfo.cs
+C:\study\CS\BasicThread\obj\Debug\net8.0\BasicThread.csproj.CoreCompileInputs.cache
+C:\study\CS\BasicThread\obj\Debug\net8.0\BasicThread.sourcelink.json
+C:\study\CS\BasicThread\obj\Debug\net8.0\BasicThread.dll
+C:\study\CS\BasicThread\obj\Debug\net8.0\refint\BasicThread.dll
+C:\study\CS\BasicThread\obj\Debug\net8.0\BasicThread.pdb
+C:\study\CS\BasicThread\obj\Debug\net8.0\BasicThread.genruntimeconfig.cache
+C:\study\CS\BasicThread\obj\Debug\net8.0\ref\BasicThread.dll

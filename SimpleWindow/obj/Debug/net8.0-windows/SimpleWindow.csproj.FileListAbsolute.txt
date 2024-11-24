@@ -1,0 +1,15 @@
+C:\study\CS\SimpleWindow\bin\Debug\net8.0-windows\SimpleWindow.exe
+C:\study\CS\SimpleWindow\bin\Debug\net8.0-windows\SimpleWindow.deps.json
+C:\study\CS\SimpleWindow\bin\Debug\net8.0-windows\SimpleWindow.runtimeconfig.json
+C:\study\CS\SimpleWindow\bin\Debug\net8.0-windows\SimpleWindow.dll
+C:\study\CS\SimpleWindow\bin\Debug\net8.0-windows\SimpleWindow.pdb
+C:\study\CS\SimpleWindow\obj\Debug\net8.0-windows\SimpleWindow.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CS\SimpleWindow\obj\Debug\net8.0-windows\SimpleWindow.AssemblyInfoInputs.cache
+C:\study\CS\SimpleWindow\obj\Debug\net8.0-windows\SimpleWindow.AssemblyInfo.cs
+C:\study\CS\SimpleWindow\obj\Debug\net8.0-windows\SimpleWindow.csproj.CoreCompileInputs.cache
+C:\study\CS\SimpleWindow\obj\Debug\net8.0-windows\SimpleWindow.sourcelink.json
+C:\study\CS\SimpleWindow\obj\Debug\net8.0-windows\SimpleWindow.dll
+C:\study\CS\SimpleWindow\obj\Debug\net8.0-windows\refint\SimpleWindow.dll
+C:\study\CS\SimpleWindow\obj\Debug\net8.0-windows\SimpleWindow.pdb
+C:\study\CS\SimpleWindow\obj\Debug\net8.0-windows\SimpleWindow.genruntimeconfig.cache
+C:\study\CS\SimpleWindow\obj\Debug\net8.0-windows\ref\SimpleWindow.dll

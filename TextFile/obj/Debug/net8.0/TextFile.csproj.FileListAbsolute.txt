@@ -1,0 +1,15 @@
+C:\study\CS\TextFile\bin\Debug\net8.0\TextFile.exe
+C:\study\CS\TextFile\bin\Debug\net8.0\TextFile.deps.json
+C:\study\CS\TextFile\bin\Debug\net8.0\TextFile.runtimeconfig.json
+C:\study\CS\TextFile\bin\Debug\net8.0\TextFile.dll
+C:\study\CS\TextFile\bin\Debug\net8.0\TextFile.pdb
+C:\study\CS\TextFile\obj\Debug\net8.0\TextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\CS\TextFile\obj\Debug\net8.0\TextFile.AssemblyInfoInputs.cache
+C:\study\CS\TextFile\obj\Debug\net8.0\TextFile.AssemblyInfo.cs
+C:\study\CS\TextFile\obj\Debug\net8.0\TextFile.csproj.CoreCompileInputs.cache
+C:\study\CS\TextFile\obj\Debug\net8.0\TextFile.sourcelink.json
+C:\study\CS\TextFile\obj\Debug\net8.0\TextFile.dll
+C:\study\CS\TextFile\obj\Debug\net8.0\refint\TextFile.dll
+C:\study\CS\TextFile\obj\Debug\net8.0\TextFile.pdb
+C:\study\CS\TextFile\obj\Debug\net8.0\TextFile.genruntimeconfig.cache
+C:\study\CS\TextFile\obj\Debug\net8.0\ref\TextFile.dll

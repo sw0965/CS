@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\study\\CS\\Interface\\",
+  "WorkspaceRootPath": "C:\\study\\CS\\BasicThread\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94671F45-F53A-4B7D-BC06-CBC8BB8ACFA4}|Interface.csproj|c:\\study\\cs\\interface\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94671F45-F53A-4B7D-BC06-CBC8BB8ACFA4}|Interface.csproj|solutionrelative:mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54AFC39A-E604-4609-9E30-7712B592271A}|BasicThread.csproj|c:\\study\\cs\\basicthread\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AFC39A-E604-4609-9E30-7712B592271A}|BasicThread.csproj|solutionrelative:mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainApp.cs",
-              "DocumentMoniker": "C:\\study\\CS\\Interface\\MainApp.cs",
+              "DocumentMoniker": "C:\\study\\CS\\BasicThread\\MainApp.cs",
               "RelativeDocumentMoniker": "MainApp.cs",
-              "ToolTip": "C:\\study\\CS\\Interface\\MainApp.cs",
+              "ToolTip": "C:\\study\\CS\\BasicThread\\MainApp.cs",
               "RelativeToolTip": "MainApp.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAkwE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T13:20:49.892Z",
+              "WhenOpened": "2024-11-24T09:30:45.299Z",
               "EditorCaption": ""
             }
           ]
